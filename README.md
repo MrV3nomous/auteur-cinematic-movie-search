@@ -2,7 +2,7 @@
 
 > A visually immersive movie discovery experience where every film shapes the interface around it.»
 
-"React" (https://img.shields.io/badge/React-18-blue?logo=react)  "JavaScript" (https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript)  "Tailwind" (https://img.shields.io/badge/TailwindCSS-Styling-38bdf8?logo=tailwindcss)  "API" (https://img.shields.io/badge/API-OMDb-green)  "License" (https://img.shields.io/badge/License-MIT-green)
+![React](https://img.shields.io/badge/React-18-blue?logo=react)  ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript)  ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-Styling-38bdf8?logo=tailwindcss)  ![OMDb API](https://img.shields.io/badge/API-OMDb-green)  ![MIT License](https://img.shields.io/badge/License-MIT-green)  ![Repo Size](https://img.shields.io/github/repo-size/MrV3nomous/auteur-cinematic-movie-search)  ![Last Commit](https://img.shields.io/github/last-commit/MrV3nomous/auteur-cinematic-movie-search)
 
 ---
 
