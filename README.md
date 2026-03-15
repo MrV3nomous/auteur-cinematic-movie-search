@@ -2,13 +2,14 @@
 
 > A visually immersive movie discovery experience where every film shapes the interface around it.»
 
-![React](https://img.shields.io/badge/React-18-blue?logo=react)  ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript)  ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-Styling-38bdf8?logo=tailwindcss)  ![OMDb API](https://img.shields.io/badge/API-OMDb-green)  ![MIT License](https://img.shields.io/badge/License-MIT-green)  ![Repo Size](https://img.shields.io/github/repo-size/MrV3nomous/auteur-cinematic-movie-search)  ![Last Commit](https://img.shields.io/github/last-commit/MrV3nomous/auteur-cinematic-movie-search)
+![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=black)  ![JavaScript ES6](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?logo=javascript&logoColor=black)  ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3-38B2AC?logo=tailwindcss&logoColor=white)  ![OMDb API](https://img.shields.io/badge/API-OMDb-blue)  ![Node Vibrant](https://img.shields.io/badge/Node--Vibrant-Color%20Extraction-purple)  ![MIT License](https://img.shields.io/badge/License-MIT-green)  ![Repo Size](https://img.shields.io/github/repo-size/MrV3nomous/auteur-cinematic-movie-search)  ![Last Commit](https://img.shields.io/github/last-commit/MrV3nomous/auteur-cinematic-movie-search)
+
 
 ---
 
 ## 🌌 Overview
 
-*"Auteur Cinematic Movie Search transforms a simple movie lookup into a dynamic visual experience.**
+**Auteur Cinematic Movie Search transforms a simple movie lookup into a dynamic visual experience.**
 
 Instead of static results, the interface reacts to each movie poster, extracting its colors and reshaping the UI to create an atmosphere inspired by the film itself.
 
