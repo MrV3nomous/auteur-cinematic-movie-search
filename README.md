@@ -98,6 +98,46 @@ http://www.omdbapi.com/apikey.aspx
 
 ---
 
+## 🔑 Environment Setup
+
+This project requires an OMDb API key to fetch movie data. Check API section to obtain your own key.
+
+**1. Create a ".env" file in the project root**
+
+In the root directory of the project, create a file named:
+
+```bash
+.env
+```
+
+**2. Add your API key to the file**
+
+```bash
+REACT_APP_OMDB_API_KEY=your_api_key_here
+```
+
+Example:
+```bash
+REACT_APP_OMDB_API_KEY=*f*6g*7
+```
+*Note: This api key is invalid and is for demonstration purposes only. Get your own API key. Check the API section.*
+
+**3. Start the development server**
+
+```bash
+npm run dev
+```
+
+The application will now be able to fetch movie data from the OMDb API.
+
+
+**⚠️ Important**
+
+The ".env" file should not be committed to GitHub.
+Ensure ".env" is included in your ".gitignore".
+
+---
+
 ## 💡 Design Philosophy
 
 Most movie search apps focus purely on functionality.
