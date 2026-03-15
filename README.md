@@ -19,28 +19,28 @@ Every search becomes a mini cinematic environment.
 
 ## ✨ Features
 
-#### **🎨 Dynamic Poster Color Extraction**
+- **🎨 Dynamic Poster Color Extraction**
 
 Each movie poster is analyzed to extract its dominant color palette.
 The UI lighting adapts to match the visual tone of the film.
 
-#### **🌠 Ambient Interface Lighting**
+- **🌠 Ambient Interface Lighting**
 
 Background gradients shift automatically based on poster colors, creating a cinematic atmosphere around each movie.
 
-#### **✨ Glowing Interactive Movie Cards**
+- **✨ Glowing Interactive Movie Cards**
 
 Movie cards emit subtle animated glow effects derived from poster colors, enhancing the visual presentation.
 
-#### **🎬 Cinematic Movie Modal**
+- **🎬 Cinematic Movie Modal**
 
 Opening a movie reveals a blurred poster background that creates a theater-like experience for movie details.
 
-#### **🎭 Poster Color Palette Preview**
+- **🎭 Poster Color Palette Preview**
 
 Each movie card displays a mini color palette generated directly from the poster artwork.
 
-#### **🧠 Graceful Poster Fallbacks**
+- **🧠 Graceful Poster Fallbacks**
 
 If a poster image is unavailable, a clean fallback UI ensures the layout remains visually consistent.
 
@@ -96,7 +96,7 @@ npm run dev
 
 Movie data is provided by the OMDb API.
 
-You can obtain an API key here:
+**You can obtain an API key here:**
 ```bash
 http://www.omdbapi.com/apikey.aspx
 ```
@@ -109,7 +109,7 @@ Most movie search apps focus purely on functionality.
 
 This project explores a different idea:
 
-> What if the visual identity of each film influenced the interface itself?»
+> What if the visual identity of each film influenced the interface itself?
 
 By turning poster artwork into live UI themes, the app transforms browsing into a more cinematic and expressive experience.
 
@@ -129,7 +129,7 @@ Potential enhancements:
 
 ## 📜 License
 
-*MIT LICENSE ©️ SOUMIK HALDER 2026*
+**MIT LICENSE ©️ SOUMIK HALDER 2026**
 
 ---
 
